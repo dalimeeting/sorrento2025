@@ -41,13 +41,11 @@ future: true
 banner: sorrento.png 
 
 conference:
-  draft: true
+  draft: false
   hide_tentative: false
   full_name: Data, Learning and Inference
   short_name: DALI
   name: Data, Learning and Inference
-  # set to True if the programme is draft only.
-  draft: true
   # set to True to hide tentative speakers
   hide_tentative: true 
   # Place an image of venue in assets/images and give its name here
