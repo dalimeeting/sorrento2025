@@ -48,7 +48,7 @@ talks:
   start: "13:00"
   end: "14:30"
 
-- title: "TBD "
+- title: "Graph-based Statistical Causality for Decision Making. "
   author:
     - given: Silvia
       family: Chiappa
