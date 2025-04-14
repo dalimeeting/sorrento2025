@@ -11,7 +11,7 @@ organizers:
   family: Bhatt
 - given: Diana
   family: Robinson
-room: Turchese
+room: Topazio
 talks:  
 - title: "Introduction to Case Studies"
   start: "9:30"

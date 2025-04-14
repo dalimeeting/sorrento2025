@@ -9,7 +9,7 @@ organizers:
   family: Amutorine
 - given: Jennifer
   family: Schooling
-room: "Topazio"
+room: "Turchese"
 show_abstracts: true
 talks:
 - title: "Session 1: The Ups: Highlighting real value from LLM-based initiatives "
