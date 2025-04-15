@@ -49,7 +49,7 @@ talks:
   start: "12:00"
   end: "12:15"
   author:
-  - given: Neil D.
+  - given: "Neil D."
     family: Lawrence
 - title: "Educating ML"
   start: "12:15"
