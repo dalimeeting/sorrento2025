@@ -45,16 +45,24 @@ talks:
   - given: Jessica
     family: Montgomery
   abstract: "Despite the absence of explicit national policy frameworks for AI-in-science, a range of policy agendas implicitly shape this domain. Growing interest from both researchers and policymakers provides an opportunity to innovate in policy and practice. This talk will explore how policy frameworks must bridge top-down strategic direction with bottom-up researcher experimentation, emphasising the importance of anticipatory governance approaches that can evolve alongside rapid technological changes."
-- title: "Short talk "
+- title: "Jaynes' World"
   start: "12:00"
   end: "12:15"
-- title: "Short talk "
+  author:
+  - given: Neil D.
+    family: Lawrence
+- title: "Educating ML"
   start: "12:15"
   end: "12:30"
-- title: "Group discussion"
+  - given: Carl Henrik
+    family: Ek
+- title: "Short Talk"
   start: "12:30"
+  end: "12:45"
+- title: "Group discussion"
+  start: "12:45"
   end: "13:00"
-- title: "The Unscientific Science of AI Evaluation "
+- title: "The Unscientific Science of AI Evaluation"
   start: "14:30"
   end: "15:00"
   author:
@@ -67,7 +75,7 @@ talks:
 - title: "Short talk "
   start: "15:15"
   end: "15:30"
-- title: "Automating data science, tabular AI, and causal challenges "
+- title: "Automating data science, tabular AI, and causal challenges"
   start: "15:30"
   end: "16:00"
   author:
