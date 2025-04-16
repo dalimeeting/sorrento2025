@@ -18,13 +18,13 @@ talks:
   author:
   - given: Denis
     family: Therien
-- title: "From Literature Reviews to Data Analysis – AI’s Potential to Enhance Scientific Research "
+- title: "From Literature Reviews to Data Analysis – AI's Potential to Enhance Scientific Research "
   start: "9:35"
   end: "10:00"
   author:
   - given: Chris
     family: Pal
-  abstract: "Large Language Models (LLMs) have revolutionized the field of Artificial Intelligence, and are starting to have even more impact on the process of science itself. This talk will kick off the AI for Science Workshop and highlight two key areas which are exploding in interest and advances: LLMs as assistants for writing scientific literature reviews, and LLMs for data analysis. I’ll discuss (1) the science of literature review creation and experiments from our LitLLM project, and (2) InsightBench, a project that focuses on the import issue of constructing benchmarks for testing the capabilities of data science agents, which seek to automate many of the tasks associated with data science. I’ll conclude by looking into the future, and the ways in which LLMs may even further accelerate science."
+  abstract: "Large Language Models (LLMs) have revolutionized the field of Artificial Intelligence, and are starting to have even more impact on the process of science itself. This talk will kick off the AI for Science Workshop and highlight two key areas which are exploding in interest and advances: LLMs as assistants for writing scientific literature reviews, and LLMs for data analysis. I'll discuss (1) the science of literature review creation and experiments from our LitLLM project, and (2) InsightBench, a project that focuses on the import issue of constructing benchmarks for testing the capabilities of data science agents, which seek to automate many of the tasks associated with data science. I'll conclude by looking into the future, and the ways in which LLMs may even further accelerate science."
 - title: "Short talk "
   start: "10:00"
   end: "10:15"
@@ -37,7 +37,7 @@ talks:
   author:
   - given: Leandro
     family: von Werra
-  abstract: "There are two key areas where AI can augment the work of a scientist; domain-specific models such as AlphaFold or MatterGen target slow or expensive workflows, while general purpose tools such as chatbots and coding assistant such as ChatGPT, DeepResearch or Cursor can make the scientist generally more productive in many daily activities. In this talk we’ll discuss how open source and open science can help build foundations for progress along these two axes while discussing the role and importance of  well organized, open and effective collaborations."
+  abstract: "There are two key areas where AI can augment the work of a scientist; domain-specific models such as AlphaFold or MatterGen target slow or expensive workflows, while general purpose tools such as chatbots and coding assistant such as ChatGPT, DeepResearch or Cursor can make the scientist generally more productive in many daily activities. In this talk we'll discuss how open source and open science can help build foundations for progress along these two axes while discussing the role and importance of  well organized, open and effective collaborations."
 - title: "Bridging the implementation gap: policy frameworks to support AI in science "
   start: "11:30"
   end: "12:00"
@@ -54,6 +54,7 @@ talks:
 - title: "Educating ML"
   start: "12:15"
   end: "12:30"
+  author:
   - given: Carl Henrik
     family: Ek
 - title: "Short Talk"
